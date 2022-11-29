@@ -1,0 +1,11 @@
+geopandas
+sqlite3
+pandas
+numpy
+matplotlib.pyplot
+ipyleaflet
+ipywidgets
+json
+ipython.display
+itertools
+viola
