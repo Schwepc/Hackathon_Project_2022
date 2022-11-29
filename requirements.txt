@@ -5,6 +5,6 @@ numpy
 matplotlib
 ipyleaflet
 ipywidgets
-json
+pyjson
 itertools
 voila
