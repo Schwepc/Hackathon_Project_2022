@@ -6,5 +6,4 @@ matplotlib
 ipyleaflet
 ipywidgets
 pyjson
-pyitertools
 voila
