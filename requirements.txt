@@ -7,3 +7,4 @@ ipyleaflet
 ipywidgets
 pyjson
 voila
+ipympl
